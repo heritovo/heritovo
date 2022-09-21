@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heritovo. I am Marylander!
+- 👋 Hi, I’m @heritovo. I am Marylander! 
 - 👀 I’m interested in coding, music, gaming...
 - 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on future projects to make the internet a better place.
